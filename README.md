@@ -54,7 +54,7 @@ We use **Logistic Regression** as a baseline model with careful feature engineer
 
 ## 🧰 Technologies
 
-- Python 3.10+
+- Python 3.8.20
 - Pandas / NumPy / Seaborn / Matplotlib
 - Scikit-learn
 - NLTK
@@ -86,7 +86,7 @@ To run this project:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/accounting-classification.git
+   git clone [https://github.com/your-username/accounting-classification.git](https://github.com/yuhmoreira/Invoices-Account-Classification)
    cd accounting-classification
 
 ---
